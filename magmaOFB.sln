@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "magmaOFB", "magmaOFB\magmaOFB.csproj", "{A588F32A-6BA7-430D-BEA7-A69BE6B66899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A588F32A-6BA7-430D-BEA7-A69BE6B66899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A588F32A-6BA7-430D-BEA7-A69BE6B66899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A588F32A-6BA7-430D-BEA7-A69BE6B66899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A588F32A-6BA7-430D-BEA7-A69BE6B66899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E2412E-661C-4F82-BF8E-BB43F04535E7}
+	EndGlobalSection
+EndGlobal
